@@ -1,5 +1,5 @@
-# sarcasm-ditection-in-social-networks-in-Persian-language
- This is an NLP project, where I am attempting to detect sarcasm in social networks in Persian language.
+# sarcasm-detection-in-social-networks-in-Persian-language
+ This is an NLP project, where I am attempting to detect sarcasm in social networks in the Persian language.
  This project utilizes cutting-edge techniques such as transformers and the ParsBERT model to tackle the challenging task of identifying sarcasm in text. By harnessing the power of natural language processing (NLP), I aim to develop an accurate and efficient solution for detecting sarcasm within various social networks.
  
  Model's picture:
